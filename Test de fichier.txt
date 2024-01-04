@@ -1,1 +1,12 @@
 Ceci est un test de fichier. Je sais pas ce qu'il faut écrire dedans.
+
+
+Les commandes de base git.
+
+Commencer par lancer uin git bach et taper les commandes suivantes:
+1- git init
+2- git add --all /.
+3- git status 
+4- git commit -m"Premier commit"
+5- git remote add origin https:// .......
+6- git push -u origin master 
